@@ -4,7 +4,7 @@
 # Hi there, I'm Jeffrey  👋 
 
 ### About: 
-<br/>
+
 
 I am a recent graduate from Flatiron School and a current college student for a Bachelors Degree at Bellevue University for Software Development.
 
@@ -15,7 +15,7 @@ I am motivated to keep learning and create phenomenal work. I want to help other
 <br/>
 
 ---
-<br/>
+
 
 ### I'm a Leader, Musician, Audio Engineer, and a Software Developer!!
 
@@ -61,12 +61,12 @@ I am motivated to keep learning and create phenomenal work. I want to help other
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 
-
-<br />
-<br />
+<br/>
+<br/>
+<br/>
 
 ---
-<br/>
+
 
 ### Projects:
 <!-- make sure to add the react quiz application and deployed link here -->
