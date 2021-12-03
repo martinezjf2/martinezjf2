@@ -17,18 +17,18 @@ I am motivated to keep learning and create phenomenal work. I want to help other
 ---
 
 
-### I'm a Leader, Musician, Audio Engineer, and a Software Developer!!
+### I'm a Leader 🏋️‍♂️ , Musician 🎵, Audio Engineer 🎙️, and a Software Developer 🖥️!!
 
-- 🌱 I’m currently learning Redux and Django Framework for Python🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning Redux and Django Framework for Python. 
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun Fact: I love to play soccer, and the first instrument I learned to play was the violin!
+- 🥇 I am Member of the Omega Nu Lambda- Xi Chapter National Honor Society at Bellevue.
 
 ### Connect with me:
 
 [<img align="left" alt="jeffreymartinez.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="jeffreymartinez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="jeffreymartinez | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="jeffreymartinez | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 <br />
