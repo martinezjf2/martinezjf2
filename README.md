@@ -75,13 +75,20 @@ I am motivated to keep learning and create phenomenal work. I want to help other
 *Built replica of a Fortune 1000 company's application to manage education assistance benefits.*
     - Established Active Storage to let users customize their profile by adding a profile picture
     - Improved background image to be responsive with custome CSS.
-    - Utlized Slim gem for reducing code on the views.
+    - Utlized Slim gem for reducing code, eliminate closing erb tags, on the views.
+- [Music Quiz Application](https://github.com/martinezjf2/us_quiz_app)  
+*Constructed 25-question quiz application with React to test music knowledge.*
+    - Integrated React hooks, useEffect for API integration, and useState to initialize state.
+    - Enabled Tailwind CSS for styling application.
+- [Waether Application](https://github.com/martinezjf2/bellevue_python_course/blob/main/weather_project.py)  
+*Created a command-line interface to retrieve current weather depending on user input.*
+    - Retrieved data from WeatherAPI using the requests library from python.
+    - Integrated Python dotenv to hide passwords and API Keys.
 - [Daily Journal](https://martinez-blog.herokuapp.com)  
 *Developed journal application where users can create new journals, edit, and delete them.*
     - Made a daily journal application where you can create, edit, update, and even delete a journal. Established it with Node, Express.js, Mongoose, and Javascript.
     - Integrated MongoDB and Mongoose as a relational database system to perform full CRUD procedures.
-    - Used EJS partials to allow features to be reusable
-
+    - Used EJS partials to allow features to be reusable.
 - [Simon Game](https://martinezjf2.github.io/simon/)
     - Established a static game using HTML, CSS, and JavaScript with jQuery.
 
@@ -93,6 +100,7 @@ I am motivated to keep learning and create phenomenal work. I want to help other
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is IAC Driver?](https://martinezjf2.medium.com/week-10-what-is-iac-driver-9b3d8e7a324a)
 - [Week 9 - Learn About Requests, Response, HTTP, and HTTPS](https://martinezjf2.medium.com/week-9-learn-about-requests-response-http-and-https-894c93d52360)
 - [Array Destructuring on useState Hook](https://martinezjf2.medium.com/array-destructuring-on-usestate-hook-710a75bc069d)
 - [Different Ways to Initialize State in React](https://martinezjf2.medium.com/different-ways-to-initialize-state-in-react-57eb2e378b26)
