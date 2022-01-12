@@ -17,7 +17,7 @@ I am motivated to keep learning and create phenomenal work. I want to help other
 ---
 
 
-### I'm a Leader 🏋️‍♂️ , Musician 🎵, Audio Engineer 🎙️, and a Software Developer 🖥️!!
+### I'm a Leader 🏋️‍♂️, Musician 🎵, Audio Engineer 🎙️, and a Software Developer 🖥️!!
 
 - 🌱 I’m currently learning Redux and Django Framework for Python. 
 - 👯 I’m looking to collaborate with other content creators.
