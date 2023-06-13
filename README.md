@@ -23,7 +23,7 @@ I am looking for full-time software developer or engineering jobs. Let's [connec
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 Goal: Continue to be a contribution to students' success and exemplify the developer's mindset.
 - ⚡  Fun Fact: I love to play soccer, and the first instrument I learned to play was the violin!
-- 🥇 I am Member of the Omega Nu Lambda- Xi Chapter National Honor Society at Bellevue and earned Dean's List GPA 4.0 three consecutive terms.
+- 🥇 I am Member of the Omega Nu Lambda- Xi Chapter National Honor Society at Bellevue and earned Dean's List GPA 4.0 four consecutive terms.
 
 ### Connect with me:
 
