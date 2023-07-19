@@ -80,10 +80,15 @@ I am looking for full-time software developer or engineering jobs. Let's [connec
 ### Projects:
 <!-- make sure to add the react quiz application and deployed link here -->
 
+- [Seguidores de Jesus](https://github.com/martinezjf2/grupo_musica_farmingdale)  
+*Built a web application that distributes Parish’s communication through the Spanish Community.*
+    - Integrated Nokogiri gem to parse data such as weekly bulletins and gospel of the day to share with the community.
+    - Used Amazon S3 Service to render images 20% faster and for document persistence within the application.
+    - Improved scalability from 10 users to 500 users within the Spanish Community.
 - [Provisio Hotel Booking Application](https://github.com/martinezjf2/Jeffrey_provisio)  
-*Built  hotel booking site that users earn rewards for each night they stay.*
+*Built hotel booking site that users earn rewards for each night they stay.*
     - Integrated MySQL to populate data for users, hotels, and reservations and set their relationships.
-    - Usec the MVC architecture to organize different functionalities such as custom methods, rendering, and connecting to the database.
+    - Used the MVC architecture to organize different functionalities such as custom methods, rendering, and connecting to the database.
 - [Guild Education Replica](https://guild-education-replica.herokuapp.com)   
 *Built replica of a Fortune 1000 company's application to manage education assistance benefits.*
     - Established Active Storage to let users customize their profile by adding a profile picture
