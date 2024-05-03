@@ -19,10 +19,8 @@ I am looking for full-time software developer or engineering jobs. Let's [connec
 
 ### I'm a Software Engineer 🖥️, Leader 🏋️‍♂️, and a Musician 🎵!!
 
-- 🌱 I’m currently mastering Next.js to create eccomerce web applications. 
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 Goal: Continue to be a contribution to students' success and exemplify the developer's mindset.
-- ⚡ Fun Fact: I love to play soccer, and the first instrument I learned to play was the violin!
+- 🌱 I'm currently honing my skills in Next.js to develop ecommerce web applications. 
+- ⚡ Fun Fact: Soccer is a passion of mine, and the piano was my first instrument!
 - 🥇 I am Member of the Omega Nu Lambda- Xi Chapter National Honor Society at Bellevue and earned Dean's List GPA 4.0 four consecutive terms.
 
 ### Connect with me:
@@ -80,24 +78,24 @@ I am looking for full-time software developer or engineering jobs. Let's [connec
 ### Projects:
 <!-- make sure to add the react quiz application and deployed link here -->
 
-- [GuitarStore](https://github.com/martinezjf2/music-store-nextjs)
+- [GuitarStore](https://github.com/martinezjf2/music-store-nextjs)  
 *Replicated an ecommerce music store to facilitate the purchase of musical instruments.*
     - Leveraged Tailwind CSS to craft visually appealing layouts and establish a cohesive web design enhancing user experience.
     - Implemented dynamic routing to dynamically showcase information for each instrument, optimizing navigation and information access.
 
-- [Seguidores de Jesus](https://github.com/martinezjf2/grupo_musica_farmingdale)
+- [Seguidores de Jesus](https://github.com/martinezjf2/grupo_musica_farmingdale)  
 *Built a web application that distributes Parish’s communication through the Spanish Community.*
     - Integrated Nokogiri gem to parse data such as weekly bulletins and gospel of the day to share with the community.
     - Used Amazon S3 Service to render images 20% faster and for document persistence within the application.
     - Improved scalability from 10 users to 500 users within the Spanish Community.
 
-- [Guild Education Replica](https://guild-education-replica.herokuapp.com)
+- [Guild Education Replica](https://guild-education-replica.herokuapp.com)   
 *Built replica of a Fortune 1000 company's application to manage education assistance benefits.*
     - Established Active Storage to let users customize their profile by adding a profile picture
     - Improved background image to be responsive with custome CSS.
     - Utlized Slim gem for reducing code, eliminate closing erb tags, on the views.
  
-- [Provisio Hotel Booking Application](https://github.com/martinezjf2/Jeffrey_provisio)
+- [Provisio Hotel Booking Application](https://github.com/martinezjf2/Jeffrey_provisio)  
 *Built hotel booking site that users earn rewards for each night they stay.*
     - Integrated MySQL to populate data for users, hotels, and reservations and set their relationships.
     - Used the MVC architecture to organize different functionalities such as custom methods, rendering, and connecting to the database.
