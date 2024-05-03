@@ -6,9 +6,9 @@
 ### About: 
 
 
-Greetings! I'm Jeffrey, a Software Engineer, and a passionate Technical Coach at Flatiron School, where I embody the true essence of a developer's mindset. I'm also proud to hold a Bachelor's in Science for Software Development at Bellevue University, where my dedication led to consecutive Dean's List honors with a perfect 4.0 GPA for four terms. My unwavering motivation to learn and contribute to dynamic developer teams fuels my drive to create innovative features and products that streamline workflows and boost productivity.
+Greetings! I bring a vibrant blend of expertise as a Software Engineer, specializing in guiding and mentoring students through the intricacies of Ruby, Ruby on Rails, Javascript, Sinatra, and React. My journey from a dynamic role as a General Manager endowed me with invaluable skills in clear communication, team cultivation, fostering innovation, and adept problem-solving—all seamlessly transferable to collaborative coding environments. My educational foundation includes graduation from Flatiron School with a focus on software engineering and earning a Bachelor's Degree in Software Development from Bellevue University.
 
-With a diverse background as a former General Manager, I have honed valuable skills in efficient communication, team development, innovation, and problem-solving. These skills seamlessly translate into the world of coding and collaborating with fellow developers. I am committed to expanding my knowledge and skills even further through Bellevue University's Master's Program in Computer Science. This exciting educational journey will allow me to delve into fascinating fields such as Data Science and AI integration. Leveraging my existing expertise, I am eager to develop impactful applications that empower individuals to maximize their productivity.
+Beyond the realm of coding, I am driven by an unwavering passion for creativity. Whether honing my skills on musical instruments or extending a helping hand within my community, I thrive on making a positive impact. My commitment extends to orchestrating engaging events within my parish, fostering a sense of belonging and community growth. Furthermore, I cherish moments of exploration and discovery, relishing in new experiences and adventures alongside my cherished family members.
 
 I am looking for full-time software developer or engineering jobs. Let's [connect][linkedin] and explore how my experience and enthusiasm can add value to your team!
 
@@ -17,12 +17,12 @@ I am looking for full-time software developer or engineering jobs. Let's [connec
 ---
 
 
-### I'm a Software Engineer 🖥️, Leader 🏋️‍♂️, Musician 🎵, and an Audio Engineer 🎙️!!
+### I'm a Software Engineer 🖥️, Leader 🏋️‍♂️, and a Musician 🎵!!
 
-- 🌱 I’m currently learning Flask Framework for Python. 
+- 🌱 I’m currently mastering Next.js to create eccomerce web applications. 
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 Goal: Continue to be a contribution to students' success and exemplify the developer's mindset.
-- ⚡  Fun Fact: I love to play soccer, and the first instrument I learned to play was the violin!
+- ⚡ Fun Fact: I love to play soccer, and the first instrument I learned to play was the violin!
 - 🥇 I am Member of the Omega Nu Lambda- Xi Chapter National Honor Society at Bellevue and earned Dean's List GPA 4.0 four consecutive terms.
 
 ### Connect with me:
@@ -80,45 +80,34 @@ I am looking for full-time software developer or engineering jobs. Let's [connec
 ### Projects:
 <!-- make sure to add the react quiz application and deployed link here -->
 
+- [GuitarStore](https://github.com/martinezjf2/music-store-nextjs)  
+*Replicated an ecommerce music store to facilitate the purchase of musical instruments.*
+    - Leveraged Tailwind CSS to craft visually appealing layouts and establish a cohesive web design enhancing user experience.
+    - Implemented dynamic routing to dynamically showcase information for each instrument, optimizing navigation and information access.
+
 - [Seguidores de Jesus](https://github.com/martinezjf2/grupo_musica_farmingdale)  
 *Built a web application that distributes Parish’s communication through the Spanish Community.*
     - Integrated Nokogiri gem to parse data such as weekly bulletins and gospel of the day to share with the community.
     - Used Amazon S3 Service to render images 20% faster and for document persistence within the application.
     - Improved scalability from 10 users to 500 users within the Spanish Community.
-- [Provisio Hotel Booking Application](https://github.com/martinezjf2/Jeffrey_provisio)  
-*Built hotel booking site that users earn rewards for each night they stay.*
-    - Integrated MySQL to populate data for users, hotels, and reservations and set their relationships.
-    - Used the MVC architecture to organize different functionalities such as custom methods, rendering, and connecting to the database.
+
 - [Guild Education Replica](https://guild-education-replica.herokuapp.com)   
 *Built replica of a Fortune 1000 company's application to manage education assistance benefits.*
     - Established Active Storage to let users customize their profile by adding a profile picture
     - Improved background image to be responsive with custome CSS.
     - Utlized Slim gem for reducing code, eliminate closing erb tags, on the views.
-- [Weather Application](https://github.com/martinezjf2/bellevue_python_course/blob/main/weather_project.py)  
-*Created a command-line interface to retrieve current weather depending on user input.*
-    - Retrieved data from WeatherAPI using the requests library from python.
-    - Integrated Python dotenv to hide passwords and API Keys.
-- [Music Quiz Application](https://github.com/martinezjf2/us_quiz_app)  
-*Constructed 25-question quiz application with React to test music knowledge.*
-    - Integrated React hooks, useEffect for API integration, and useState to initialize state.
-    - Enabled Tailwind CSS for styling application.
+ 
+- [Provisio Hotel Booking Application](https://github.com/martinezjf2/Jeffrey_provisio)  
+*Built hotel booking site that users earn rewards for each night they stay.*
+    - Integrated MySQL to populate data for users, hotels, and reservations and set their relationships.
+    - Used the MVC architecture to organize different functionalities such as custom methods, rendering, and connecting to the database.
+
 
 <br/>
 
 
 ---
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [What is IAC Driver?](https://martinezjf2.medium.com/week-10-what-is-iac-driver-9b3d8e7a324a)
-- [How to Setup Emailjs](https://martinezjf2.medium.com/how-to-setup-emailjs-33809350f0f8)
-- [How to Integrate Flash Messages in Rails](https://martinezjf2.medium.com/how-to-integrate-flash-messages-in-rails-11ac8824980)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...][medium]
-
----
 
 
 
